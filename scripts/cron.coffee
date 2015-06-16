@@ -8,4 +8,5 @@
 
 	everyMinute = (robot) ->
 	  -> robot.messageRoom "#pegabottest", 'I will nag you every minute'
+	  		
 
